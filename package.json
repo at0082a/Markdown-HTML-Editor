@@ -1,0 +1,22 @@
+{
+  "name": "markdown-editor",
+  "version": "1.0.0",
+  "description": "\"Realtime Markdown Viewer\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cd",
+    ".."
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
+    "redis": "^2.8.0",
+    "share": "^0.6.3",
+    "showdown": "^1.9.0"
+  }
+}
